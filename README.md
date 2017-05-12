@@ -1,7 +1,7 @@
 # How Spatial Polygons Shape Our World
 ## Amelia McNamara, OpenVisConf 2017
 
-This repo contains a PDF version of the slides for my 2017 OpenVisConf talk, How Spatial Polygons Shape Our World. The video of me giving the talk is [available on youtube](https://www.youtube.com/watch?v=wn5larsRHro), and the full transcript is available [on the conference website](https://openvisconf.com/files/transcripts/OpenVis_Amelia_McNamara.txt).
+This repo contains a PDF version of the slides for my 2017 OpenVisConf talk, How Spatial Polygons Shape Our World. The video of me giving the talk is [available on youtube](https://www.youtube.com/watch?v=wn5larsRHro), and the full transcript is [on the conference website](https://openvisconf.com/files/transcripts/OpenVis_Amelia_McNamara.txt).
 
 ### References and links:
 
@@ -24,12 +24,12 @@ This repo contains a PDF version of the slides for my 2017 OpenVisConf talk, How
 #### Gerrymandering
 - In the context of elections, we call the MAUP [Gerrymandering](https://commons.wikimedia.org/w/index.php?curid=6030613).
 - John Oliver on Last Week Tonight [explains gerrymandering](http://bit.ly/LWT_gerrymandering) in a much funnier way than I could.
-- A commonly-cited Washington Post article, ["The best explanation of gerrymandering you will ever see"](https://www.washingtonpost.com/news/wonk/wp/2015/03/01/this-is-the-best-explanation-of-gerrymandering-you-will-ever-see).
+- A commonly-cited Washington Post article, ["The best explanation of gerrymandering you will ever see."](https://www.washingtonpost.com/news/wonk/wp/2015/03/01/this-is-the-best-explanation-of-gerrymandering-you-will-ever-see)
 - For a more realistic experience, try the [Redistricting Game](http://redistrictinggame.org/).
 
 #### Downscaling, upscaling, sidescaling
 - [Disser](http://conveyal.com/blog/2014/04/08/aggregate-disser) could help you move from aggregated data to point data.
-- Jon Kimerling has thoughts on [Dotting the dot map, revisited](http://downloads2.esri.com/MappingCenter2007/resources/presentations/Kimerling_2008_UR_Colloquium.pdf) .
+- Jon Kimerling has thoughts on [Dotting the dot map, revisited](http://downloads2.esri.com/MappingCenter2007/resources/presentations/Kimerling_2008_UR_Colloquium.pdf).
 - Another project with my collaborator: [Spatial aggregation explorer](http://www.bit.ly/spatial_agg).
 - In the electoral context, you might want to [Redraw the States](http://kevinhayeswilson.com/redraw/) by moving counties from one state to another.
 - [How zip codes almost masked the lead problem in Flint](http://theconversation.com/how-zip-codes-nearly-masked-the-lead-problem-in-flint-65626).
@@ -39,8 +39,9 @@ This repo contains a PDF version of the slides for my 2017 OpenVisConf talk, How
 
 
 ### Thanks to:
+- [Aran Lunzer](http://www.vpri.org/html/team_bios/aran_lunzer.htm), my collaborator, who has been thinking about how aggregation impacts [histograms](http://tinlizzie.org/histograms/) and [maps](http://www.bit.ly/spatial_agg) with me for many years. 
 - [Pierre Goovaerts](https://sites.google.com/site/goovaertspierre/), whose talk on geostatistics in practice at UCLA in 2014 started me thinking about the change of support problem.
 - [Friedrich Hartmann](https://twitter.com/mxfh), who introduced me to dasymetric mapping and the MAUP at IEEEVis in 2014 and pointed me toward cogran.js right before my talk.
 - [Moon Duchin](http://www.chronicle.com/article/Meet-the-Math-Professor/239260), one of the mathematicians solving gerrymandering.
-- [Richard Casey Sadler](https://chmfamilymedicine.msu.edu/directory/rick-sadler-phd), who works on public health problems in Michigan.
-- [Matt Brehmer](https://twitter.com/mattbrehmer) who sent me references to cartogram effectiveness measures.
+- [Richard Casey Sadler](https://chmfamilymedicine.msu.edu/directory/rick-sadler-phd), who works on public health problems in Michigan and discovered many problems with the Flint water data.
+- [Matt Brehmer](https://twitter.com/mattbrehmer), for sending me references to cartogram effectiveness measures.
